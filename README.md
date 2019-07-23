@@ -1,5 +1,5 @@
 # DMFL(Digital Marketers' Futures League)
-'디지털 마케터를 위한 광고 콘텐츠 제작' 2019 특강 슬라이드
+'디지털 마케터를 위한 광고 콘텐츠 제작' 2019 [특강 슬라이드 사이트](https://yamoo9.github.io/DMFL)
 
 [![](https://raw.githubusercontent.com/yamoo9/DMFL/master/slides.png)](https://yamoo9.github.io/DMFL)
 
